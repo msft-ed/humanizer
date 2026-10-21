@@ -144,7 +144,7 @@ The patterns are numbered by strength and frequency. The first five justify an e
 | 15 | **Shallow -ing riders** | "symbolizing... reflecting... showcasing..." | Keep only what the source supports |
 | 16 | **Sales language** | "nestled within the breathtaking region" | State what the thing is |
 | 17 | **Borrowed authority** | "Experts believe...", "cited in NYT, BBC, FT, and The Hindu" | Name a real source and what it said, or remove the claim or list |
-| 18 | **Avoiding is, are, and has** | "serves as... features... boasts" | "is... has" |
+| 18 | **Avoiding is, are, and has** | "serves as... features... boasts... carries" | "is... has" |
 
 ### D. Formatting by rule
 
